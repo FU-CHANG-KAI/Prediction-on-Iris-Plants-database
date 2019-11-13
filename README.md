@@ -42,11 +42,15 @@ This is still under construction. More features will be presented in the near fe
 
 ## Example Outcome
 1.Accuracy
+
 train: 100%
-testL 96%
+
+test: 96%
 
 2. Learning curve
-<img src="images/Top%20five%20movies%20list.PNG" width="400">
+<img src="image/Scatter%20plot%20of%20Iris%20Plants.PNG" width="400">
+
+<img src="image/Learning%20curve.PNG" width="400">
 
 ## Source of data
 http://archive.ics.uci.edu/ml/datasets/Iris
