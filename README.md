@@ -48,9 +48,9 @@ train: 100%
 test: 96%
 
 2. Learning curve
-<img src="image/Scatter%20plot%20of%20Iris%20Plants.PNG" width="600">
+<img src="image/Scatter%20plot%20of%20Iris%20Plants.png" width="400">
 
-<img src="image/Learning%20curve.PNG" width="600">
+<img src="image/Learning%20curve.png" width="400">
 
 ## Source of data
 http://archive.ics.uci.edu/ml/datasets/Iris
