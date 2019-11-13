@@ -12,11 +12,7 @@ In this repository, a linear regression model is built with numpy, matplotlib an
 Two of classes are chosen to be classified: Iris_setosa and Iris_versicolor
 
 ## Installation
-```bash
-Numpy
-Matplotlib
-Pandas
-```
+Numpy, Matplotlib andPandas
 
 ## Usage
 ```bash
@@ -41,15 +37,9 @@ df = pd.read_csv('iris.data', header=None)
 This is still under construction. More features will be presented in the near feature.
 
 ## Example Outcome
-1.Accuracy
-
-train: 100%
-
-test: 96%
+1.Accuracy: train 100%, test 96%
 
 2. Learning curve
-<img src="image/Scatter%20plot%20of%20Iris%20Plants.png" width="400">
-
 <img src="image/Learning%20curve.png" width="400">
 
 ## Source of data
