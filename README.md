@@ -38,6 +38,7 @@ This is still under construction. More features will be presented in the near fe
 
 ## Example Outcome
 1.Accuracy: train 100%, test 96%
+
 2.Learning curve
 <img src="image/Learning%20curve.png" width="400">
 
